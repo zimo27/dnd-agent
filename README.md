@@ -1,4 +1,5 @@
 # dnd-agent
+DND simulator powered by agents using GPT-4o and Kani
 
 ## Environment Setup
 ### **1. Prerequisites**
